@@ -28,7 +28,10 @@ module.exports = {
         "destructive-foreground": "hsl(var(--destructive-foreground))",
         ring: "hsl(var(--ring))",
         radius: "hsl(var(--radius))",
-      }
+      },
+      // backgroundImage: {
+      //   'my_bg_image': "url('../../public/page1.png')",
+      // }
     },
   },
   plugins: [],
