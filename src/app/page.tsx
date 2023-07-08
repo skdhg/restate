@@ -11,7 +11,7 @@ import CardOneImage from '../../public/keepKey.jpg';
 import CardTwoImage from '../../public/geo.jpg';
 // components
 import CustomCard from '../components/ui/Card';
-import Mode from '../components/ui/BuySellRent';
+
 
 export default function Home() {
   const location = useRouter();
