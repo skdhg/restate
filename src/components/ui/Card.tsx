@@ -11,7 +11,7 @@ export default function CardExample({
   description: string;
   content: string;
   footer: string;
-  src: any
+  src: any;
 }) {
   return (
     <Card>
